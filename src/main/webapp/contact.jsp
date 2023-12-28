@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is about page</h1>
-<h2>Testing for this app....!!!!!</h2>
+<h1>Contact Details</h1>
+<p>+91 8551929114</p>
 </body>
 </html>
